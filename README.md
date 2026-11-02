@@ -4,7 +4,7 @@
 💻 Software Developer | Flutter Developer | Machine Learning Enthusiast  
 🚀 Building real-world web, mobile, and AI-based applications  
 
-=======================================================================
+======================================================================
 
 ## 🧠 Skills
 
@@ -39,7 +39,7 @@
 - Android Studio  
 - Deployment & API Integration  
 
-===========================================================================================
+===================================================================
 
 ## 🚀 Projects
 
