@@ -110,7 +110,7 @@ Machine Learning project involving:
 
 ## 🌐 Connect With Me
 
-📧 Email: mohammad.nomaanraza2023@ssipmt.com  
+📧 Email: mohammad.nomaanraza2023@ssipmt.com / nomaanraza10@gmail.com 
 
 🔗 LinkedIn: linkedin.com/in/mohammad-nomaan-raza-661792310/
 
